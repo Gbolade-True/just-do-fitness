@@ -1,1 +1,1 @@
-# just-do-fitness
+# JustDo Fitness
